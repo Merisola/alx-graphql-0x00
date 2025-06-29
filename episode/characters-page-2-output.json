@@ -1,0 +1,107 @@
+{
+  "data": {
+    "episode": {
+      "id": "2",
+      "name": "Lawnmower Dog",
+      "air_date": "December 9, 2013",
+      "episode": "S01E02",
+      "characters": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "id": "38",
+          "name": "Beth Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "id": "46",
+          "name": "Bill",
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Centaur",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "80",
+          "name": "Creepy Little Girl",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        },
+        {
+          "id": "175",
+          "name": "Jerry Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+        },
+        {
+          "id": "221",
+          "name": "Melissa",
+          "image": "https://rickandmortyapi.com/api/character/avatar/221.jpeg"
+        },
+        {
+          "id": "239",
+          "name": "Mr. Goldenfold",
+          "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+        },
+        {
+          "id": "246",
+          "name": "Mrs. Pancakes",
+          "image": "https://rickandmortyapi.com/api/character/avatar/246.jpeg"
+        },
+        {
+          "id": "304",
+          "name": "Scary Brandon",
+          "image": "https://rickandmortyapi.com/api/character/avatar/304.jpeg"
+        },
+        {
+          "id": "305",
+          "name": "Scary Glenn",
+          "image": "https://rickandmortyapi.com/api/character/avatar/305.jpeg"
+        },
+        {
+          "id": "306",
+          "name": "Scary Terry",
+          "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg"
+        },
+        {
+          "id": "329",
+          "name": "Snuffles (Snowball)",
+          "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+        },
+        {
+          "id": "338",
+          "name": "Summer Smith",
+          "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+        },
+        {
+          "id": "396",
+          "name": "Scary Teacher",
+          "image": "https://rickandmortyapi.com/api/character/avatar/396.jpeg"
+        },
+        {
+          "id": "397",
+          "name": "Fido",
+          "image": "https://rickandmortyapi.com/api/character/avatar/397.jpeg"
+        },
+        {
+          "id": "398",
+          "name": "Accountant dog",
+          "image": "https://rickandmortyapi.com/api/character/avatar/398.jpeg"
+        },
+        {
+          "id": "405",
+          "name": "Trunkphobic suspenders guy",
+          "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+        }
+      ]
+    }
+  }
+}
